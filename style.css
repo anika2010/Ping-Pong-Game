@@ -1,0 +1,12 @@
+#heading 
+{
+width:100%;
+font-size:25px;
+text-align-last: left;
+}
+#heading button{
+    float:right;
+}
+canvas{
+    border: 3px solid white;
+}
